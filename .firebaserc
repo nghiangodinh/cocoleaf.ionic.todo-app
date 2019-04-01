@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "demo": "todoapp-demo",
+    "default": "todoapp-demo"
+  }
+}
